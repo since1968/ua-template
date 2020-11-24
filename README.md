@@ -1,4 +1,4 @@
-# ua-fighter-hoplite
+# ua-template
 
 For use with Homebrewery Naturalcrit. 
 
